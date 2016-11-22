@@ -11,7 +11,7 @@ if($_REQUEST['Digits'] == '5555') {
 header("Location: secret-dylan.xml");
 die;
 }
-if($_REQUEST['Digits'] == '5555') {
+if($_REQUEST['Digits'] == '5556') {
 header("Location: secret-ricky.xml");
 die;
 }
